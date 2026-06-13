@@ -1,5 +1,5 @@
 {
-  "name": "@csgaglobal/gitlab-api",
+  "name": "@meok-ai-labs/gitlab-api",
   "version": "1.0.0",
   "description": "GitLab API integration for project management, CI/CD pipelines, merge requests, and DevOps workflow automation.",
   "main": "dist/index.js",
@@ -20,10 +20,10 @@
   "devDependencies": {
     "typescript": "^5.7.3"
   },
-  "author": "CSGA Global",
+  "author": "MEOK Labs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/csga-global/mcp-servers",
+    "url": "https://github.com/meok-ai/mcp-servers",
     "directory": "packages/gitlab-api"
   },
   "keywords": [
